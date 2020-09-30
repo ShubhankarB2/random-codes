@@ -20,6 +20,7 @@ for i in range(0,700):
 
     
 for combinations in filter:
-    print(combinations)
+    print(combinations shown)
 
 
+ 
